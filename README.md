@@ -5,4 +5,4 @@ Each row in the table starts with a "Category" that describes the main point of 
 
 ![alt text](GodotTutorialDatabase.png "Godot Tutorial Database")
 
-***This is a work in progress. If you feel a tutorial has been misrepresented or want a specific tutorial is missing, feel free to contact me on through Godot Discord Channel. Anyone is welcome to contact me for a pull request if they want to make changes to the database***
+***This is a work in progress. If you feel a tutorial has been misrepresented or want a specific tutorial that is missing, feel free to contact me on through Godot Discord Channel @lehast22#7015. Anyone is welcome to contact me for a pull request if they want to make changes to the database***
